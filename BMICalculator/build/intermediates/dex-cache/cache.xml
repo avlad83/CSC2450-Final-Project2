@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_ee8d7713c9f95a6050bdf4493b056f90837def7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexV\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_93dcc893bcb04117cbb19d3338635eeab8c5cbb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_8105e9f0f22e253b3b5120a1c511b3002d12c3a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_15903e560fa8a0a1c2702d4bc9f97e3380f9f4a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_2c708aa64d822a0ecdfbfd4cd2208dec0644cb2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\AlexV\Desktop\BMICalculator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_1d9bd35ec72c49752953ecfeec39b540bfae8e2a.jar" />
+    </item>
+
+</items>
